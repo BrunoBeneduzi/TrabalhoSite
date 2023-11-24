@@ -1,0 +1,38 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+   background-color:gold;
+}
+#titulo{
+    color: blue;
+    text-align: center;
+    background-color:darkgreen;
+}
+.conteiner{
+    height: 100%;
+    display: flex;
+}
+.principal{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+#foto1{
+    height: 25vb;
+    width: 25vb;
+    margin: 1vb;
+}
+
+.fotos_esquerda{
+    text-align: center;
+    width: 30vb;
+}
+.fotos_direita{
+    text-align: center;
+    width: 30vb;
+}

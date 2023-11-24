@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#titulo{
+    text-align: center;
+    background-color: aquamarine;
+}
+
+.pai{
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    margin: 2vb;
+    flex-wrap: wrap;
+}
+
+.notebook1{
+    margin: 5vb;
+}
+
+#valor1{
+    height: 20vb;
+    
+}

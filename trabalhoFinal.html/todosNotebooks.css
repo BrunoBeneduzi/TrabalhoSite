@@ -1,0 +1,26 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+#titulo{
+    text-align: center;
+}
+.pai{
+    height: 100%;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+   
+}
+
+.notebook{
+   text-align: center;
+   margin-top: 4vb;
+  
+}
+.resumo{
+    margin: 5vb;
+    width: 25vb;
+   
+    
+}
